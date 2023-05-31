@@ -1,0 +1,547 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.up{
+    width: 1366px;
+    height: 54px;
+    left: 0px;
+    top: 0px;
+    background: #E1C8F1;
+    margin-left: 276px;
+    margin-right: 276px;
+
+}
+.name{
+    margin-left: auto;
+    margin-right: auto;
+    width: 58px;
+    height: 19px;
+    padding-top: 17px;
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    /* or 108% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #000000;
+}
+.main{
+    width: 1366px;
+    height: 161px;
+    margin-left: 276px;
+    margin-right: 276px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    background: #FFFFFF;
+}
+.textMain{
+    display: inline-block;
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* or 120% */
+    text-transform: uppercase;
+    color: #000000;
+    vertical-align: top;
+
+}
+#torts {
+    width: 50.75px;
+    height: 19px;
+    margin-top: 60px;
+    margin-left: 77.5px;
+    margin-right: 0;
+}
+
+#nachinki{
+    width: 72.95px;
+    height: 19px;
+    margin-top: 60px;
+    margin-left: 47.25px;
+    margin-right: 355px;
+}
+.logo{
+    display: inline-block;
+    width: 146px;
+    height: 133px;
+    margin-top: 17px;
+    margin-right: 355px;
+}
+#dostavka {
+    width: 83.84px;
+    height: 19px;
+    margin-top: 60px;
+    margin-left: 0;
+    margin-right: 47.25px;
+}
+#garantii{
+    width: 75px;
+    height: 19px;
+    margin-top: 60px;
+    margin-left: 0;
+    margin-right: 0;
+}
+#allCard{
+    position: absolute;
+    width: 1366px;
+    height: 682px;
+    left: 276px;
+    top: 217px;
+}
+#firstCard{
+    position: absolute;
+    width: 639px;
+    height: 293.94px;
+    left: 22px;
+    top: 50px;
+
+    background: #F1C8D2;
+    border-radius: 15px;
+}
+#text1{
+    position: absolute;
+    width: 239.45px;
+    height: 101px;
+    left: 40px;
+    top: 40px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 51px;
+    /* or 111% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#button1{
+    position: absolute;
+    left: 40px;
+    right: 493.97px;
+    top: 230.63px;
+    bottom: 30px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+#buttonText1{
+    position: absolute;
+    width: 77.23px;
+    height: 24px;
+    left: 14px;
+    top: 4px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#img1{
+    position: absolute;
+    width: 357px;
+    height: 363px;
+    right: 0px;
+    top: -69.37px;
+    border-radius: 0px 0px 15px 0px;
+}
+#secondCard{
+    position: absolute;
+    width: 639px;
+    height: 293.94px;
+    left: 683px;
+    top: 50px;
+
+    background: #F1EDC8;
+    border-radius: 15px;
+}
+#text2{
+    position: absolute;
+    width: 262px;
+    height: 101px;
+    left: 40px;
+    top: 40px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 51px;
+    /* or 111% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#button2{
+    position: absolute;
+    left: 40px;
+    right: 493.97px;
+    top: 230.63px;
+    bottom: 30px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+#buttonText2{
+    position: absolute;
+    width: 77.23px;
+    height: 24px;
+    left: 14px;
+    top: 4px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#img2{
+    position: absolute;
+    width: 377px;
+    height: 359.19px;
+    right: 0px;
+    top: -65.56px;
+    border-radius: 0px 0px 15px 0px;
+ }
+#thirdCard{
+    position: absolute;
+    width: 639px;
+    height: 293.94px;
+    left: 22px;
+    top: 387.94px;
+
+    background: #E1C8F1;
+    border-radius: 15px;
+}
+#text3{
+    position: absolute;
+    width: 239.45px;
+    height: 101px;
+    left: 40px;
+    top: 40px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 51px;
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#button3{
+    position: absolute;
+    left: 40px;
+    right: 493.97px;
+    top: 230.62px;
+    bottom: 30.01px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+#buttonText3{
+    position: absolute;
+    width: 77.23px;
+    height: 24px;
+    left: 14px;
+    top: 4px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#img3{
+    position: absolute;
+    width: 414px;
+    height: 350px;
+    right: 0px;
+    top: -56.38px;
+    border-radius: 0px 0px 15px 0px;
+}
+#fourthCard{
+    position: absolute;
+    width: 639px;
+    height: 293.94px;
+    left: 683px;
+    top: 387.94px;
+
+    background: #C8D6F1;
+    border-radius: 15px;
+}
+#text4{
+    position: absolute;
+    width: 262px;
+    height: 101px;
+    left: 40px;
+    top: 40px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 51px;
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#button4{
+    position: absolute;
+    left: 40px;
+    right: 493.97px;
+    top: 230.62px;
+    bottom: 30.01px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+#buttonText4{
+    position: absolute;
+    width: 77.23px;
+    height: 24px;
+    left: 14px;
+    top: 4px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#img4{
+    position: absolute;
+    width: 340px;
+    height: 350px;
+    left: 300px;
+    top: -56px;
+
+    filter: blur(0.5px);
+}
+#nameNach{
+    position: absolute;
+    width: 322.08px;
+    height: 50px;
+    left: 798.06px;
+    top: 950px;
+
+
+    font-family: 'Forum', cursive;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 51px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#mainNach{
+    position: absolute;
+    width: 1380px;
+    height: 665px;
+    left: 276px;
+    top: 1071px;
+}
+.blockNach{
+    display: inline-block;
+    width: 229.19px;
+    height: 292.5px;
+    margin-left: 22px;
+    margin-right: 22px;
+    margin-bottom: 40px;
+}
+.nachimg1{
+    width: 189.19px;
+    height: 189.19px;
+    margin-left: calc(50% - 189.19px/2);
+    top: 0px;
+
+    border-radius: 94.6px;
+}
+.nachTxt1{
+    width: 229px;
+    height: 104px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 23px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+.nachTxt{
+    margin-left: auto;
+    margin-right: auto;
+}
+#buttonKatalog{
+    position: absolute;
+    width: 403px;
+    height: 77px;
+    left: 757.5px;
+    top: 1750px;
+
+    background: #E1C8F1;
+    border-radius: 15px;
+}
+#buttonKatalogTxt{
+    position: absolute;
+    width: 288.29px;
+    height: 39px;
+    left: 57.45px;
+    top: 18px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 75px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+#line{
+    position: absolute;
+    width: 1366px;
+    height: 0px;
+    left: 276px;
+    top: 1873.12px;
+
+    border: 1px solid #000000;
+    transform: rotate(0.06deg);
+}
+#kontakt{
+    position: absolute;
+    width: 210.75px;
+    height: 50px;
+    left: 853.72px;
+    top: 1950px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 51px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#maps{
+    position: absolute;
+    left: 276px;
+    right: 0px;
+    top: 2061px;
+}
+#end{
+    position: absolute;
+    width: 1366px;
+    height: 186px;
+    left: 276px;
+    top: 2515px;
+
+    background: #24292D;
+}
+#mail{
+    position: absolute;
+    width: 219px;
+    height: 19px;
+    left: 50px;
+    top: 59px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+#nomer{
+    position: absolute;
+    width: 219px;
+    height: 19px;
+    left: 1185px;
+    top: 59px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+.logoEnd{
+    position: absolute;
+    width: 127px;
+    height: 111px;
+    left: 620px;
+    top: 23px;
+}
