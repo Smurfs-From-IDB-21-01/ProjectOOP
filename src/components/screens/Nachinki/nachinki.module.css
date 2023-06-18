@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#divNach{
+    border: solid;
+    position: absolute;
+    width: 1344px;
+    height: 1775px;
+    left: 310px;
+    top: 345px;
+}
+.divNach1{
+    display: inline-block;
+    border: solid;
+    height: 320px;
+    width: 666px;
+}
+#divNach2{
+    border: solid;
+    width: 250px;
+    height: 320px;
+    left: 0px;
+    top: 0px;
+
+    border-radius: 15px;
+}
+#divNach3{
+    border: solid;
+    width: 389px;
+    height: 99.98px;
+    margin-left: 250px;
+    margin-top: 0px;
+}

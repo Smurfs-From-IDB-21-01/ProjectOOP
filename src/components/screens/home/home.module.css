@@ -4,6 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    position: relative;
+}
+#home {
+    height: 1853px;
+}
 .up{
     width: 1366px;
     height: 54px;
@@ -50,10 +56,11 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-    /* or 120% */
+
     text-transform: uppercase;
     color: #000000;
     vertical-align: top;
+    text-decoration: none;
 
 }
 #torts {
@@ -77,6 +84,8 @@
     height: 133px;
     margin-top: 17px;
     margin-right: 355px;
+    background-image: url("public/logo.svg");
+    background-repeat: no-repeat;
 }
 #dostavka {
     width: 83.84px;
@@ -105,6 +114,7 @@
     height: 293.94px;
     left: 22px;
     top: 50px;
+
     background: #F1C8D2;
     border-radius: 15px;
 }
@@ -454,22 +464,27 @@
 
     color: #000000;
 }
-#line{
-    position: absolute;
+
+#deleteThis {
+    border: solid;
+    height: 1000px;
+}
+
+#line {
     width: 1366px;
     height: 0px;
-    left: 276px;
-    top: 1873.12px;
+    margin-left: 276px;
+    margin-top: 33px;
 
     border: 1px solid #000000;
     transform: rotate(0.06deg);
 }
-#kontakt{
-    position: absolute;
+
+#kontakt {
     width: 210.75px;
     height: 50px;
-    left: 853.72px;
-    top: 1950px;
+    margin-left: 853.72px;
+    margin-top: 61px;
 
     font-family: 'Forum', cursive;
     font-style: normal;
@@ -484,27 +499,27 @@
 
     color: #000000;
 }
-#maps{
-    position: absolute;
-    left: 276px;
-    right: 0px;
-    top: 2061px;
+
+#maps {
+    margin-left: 276px;
+    margin-top: 61px;
 }
-#end{
-    position: absolute;
+
+#end {
     width: 1366px;
     height: 186px;
-    left: 276px;
-    top: 2515px;
+    margin-left: 276px;
+    margin-top: 0;
 
     background: #24292D;
 }
+
 #mail{
-    position: absolute;
     width: 219px;
     height: 19px;
-    left: 50px;
-    top: 59px;
+    margin-left: 75px;
+    margin-top: 59px;
+    margin-right: 0;
 
     font-family: 'Forum', cursive;
     font-style: normal;
@@ -512,35 +527,51 @@
     font-size: 18px;
     line-height: 24px;
 
-    display: flex;
+
+    display: inline-block;
     align-items: center;
     text-decoration-line: underline;
-
+    vertical-align: top;
     color: #FFFFFF;
 }
-#nomer{
-    position: absolute;
-    width: 219px;
-    height: 19px;
-    left: 1185px;
-    top: 59px;
-
-    font-family: 'Forum', cursive;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 24px;
-
-    display: flex;
-    align-items: center;
-    text-decoration-line: underline;
-
+#mail1{
     color: #FFFFFF;
 }
-.logoEnd{
-    position: absolute;
+
+#logoEnd{
+    display: inline-block;
+    margin-left: 351px;
+    margin-top: 23px;;
     width: 127px;
     height: 111px;
-    left: 620px;
-    top: 23px;
+
+}
+
+#nomer{
+    width: 219px;
+    height: 19px;
+    margin-right: 0;
+    margin-left: 375px;
+    margin-top: 59px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    display: inline-block;
+    align-items: center;
+    vertical-align: top;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+#nomer1{
+    color: #FFFFFF;
+}
+
+#footer {
+    display: block;
+    bottom: 0;
 }

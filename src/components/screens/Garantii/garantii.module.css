@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#garantii{
+    height: 560px;
+}
+#text1{
+    position: absolute;
+    width: 169.9px;
+    height: 45px;
+    left: 867px;
+    top: 235px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 49px;
+    /* or 120% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#text2{
+    position: absolute;
+    width: 1300.81px;
+    height: 53.31px;
+    left: 299px;
+    top: 302px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text3{
+    position: absolute;
+    width: 583.45px;
+    height: 24px;
+    left: 299px;
+    top: 370px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text4{
+    position: absolute;
+    width: 297.73px;
+    height: 24px;
+    left: 299px;
+    top: 408.11px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    /* or 133% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text5{
+    position: absolute;
+    width: 467.37px;
+    height: 24px;
+    left: 299px;
+    top: 446.22px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text6{
+    position: absolute;
+    width: 486.22px;
+    height: 24px;
+    left: 299px;
+    top: 484.33px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+#text7{
+    position: absolute;
+    width: 235.78px;
+    height: 24px;
+    left: 299px;
+    top: 560.55px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text8{
+    position: absolute;
+    width: 466.28px;
+    height: 24px;
+    left: 299px;
+    top: 598.66px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text9{
+    position: absolute;
+    width: 615.81px;
+    height: 24px;
+    left: 299px;
+    top: 636.77px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text10{
+    position: absolute;
+    width: 427.43px;
+    height: 24px;
+    left: 299px;
+    top: 674.88px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text11{
+    position: absolute;
+    width: 325.64px;
+    height: 24px;
+    left: 299px;
+    top: 712.98px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#text12{
+    position: absolute;
+    width: 718px;
+    height: 24px;
+    left: 299px;
+    top: 751px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}

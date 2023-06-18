@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+
+#dostavka{
+    height: 1080px;
+}
+#Text1{
+    position: absolute;
+    width: 190.7px;
+    height: 45px;
+    left: 855.75px;
+    top: 237px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 49px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#Text2{
+    position: absolute;
+    width: 1050.58px;
+    height: 53.31px;
+    left: 299px;
+    top: 302px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text3{
+    position: absolute;
+    width: 59.29px;
+    height: 19px;
+    left: 930.45px;
+    top: 394px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+#Text4{
+    position: absolute;
+    width: 699.81px;
+    height: 24px;
+    left: 299px;
+    top: 424.66px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text5{
+    position: absolute;
+    width: 385.89px;
+    height: 24px;
+    left: 299px;
+    top: 472.77px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text6{
+    position: absolute;
+    width: 331.97px;
+    height: 24px;
+    left: 299px;
+    top: 497.31px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text7{
+    position: absolute;
+    width: 586.95px;
+    height: 24px;
+    left: 299px;
+    top: 521.62px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text8{
+    position: absolute;
+    width: 1294.08px;
+    height: 53.32px;
+    left: 299px;
+    top: 550.8px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text9{
+    position: absolute;
+    width: 1315.81px;
+    height: 82.62px;
+    left: 299px;
+    top: 616.13px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text10{
+    position: absolute;
+    width: 79.18px;
+    height: 19px;
+    left: 920.5px;
+    top: 738.86px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+#Text11{
+    position: absolute;
+    width: 1320.93px;
+    height: 59px;
+    left: 299px;
+    top: 773.52px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text12{
+    position: absolute;
+    width: 359.4px;
+    height: 24px;
+    left: 299px;
+    top: 849.14px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text13{
+    position: absolute;
+    width: 168.53px;
+    height: 24px;
+    left: 299px;
+    top: 895.45px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text14{
+    position: absolute;
+    width: 231.65px;
+    height: 24px;
+    left: 634.66px;
+    top: 895.45px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text15{
+    position: absolute;
+    width: 191.29px;
+    height: 24px;
+    left: 299px;
+    top: 924.77px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text16{
+    position: absolute;
+    width: 322px;
+    height: 24px;
+    left: 634.66px;
+    top: 924.77px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text17{
+
+    position: absolute;
+    width: 419.86px;
+    height: 24px;
+    left: 299px;
+    top: 960.08px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text18{
+    position: absolute;
+    width: 94.76px;
+    height: 19px;
+    left: 912.72px;
+    top: 1017.39px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+#Text19{
+    position: absolute;
+    width: 846.11px;
+    height: 82.62px;
+    left: 299px;
+    top: 1055.05px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+#Text20{
+    position: absolute;
+    width: 219.73px;
+    height: 19px;
+    left: 850.23px;
+    top: 1173.98px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+#Text21{
+    position: absolute;
+    width: 640.04px;
+    height: 53.31px;
+    left: 299px;
+    top: 1211.64px;
+
+    font-family: 'Forum', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
